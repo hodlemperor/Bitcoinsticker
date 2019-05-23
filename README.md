@@ -1,10 +1,9 @@
 # Bitcoinsticker
 
-I download some logo service reletad to bitcoin, try to vectorialize most of all and add for eack logo a level with the cutting contour. 
-In particoular i create the CutCountour that is necessary for cutting on roland plotter. 
+I downloaded some logos of bitcoin related services, I try to vectorize most of all and add a cut profile to eack logo. In particoular I create the CutCountour which is necessary for cutting on the roland plotter.
 
-I just upload here if someone else need it. Sticker are good for advertise bitcoin. 
-It's possible also to buy that in some place .. just google it
+I uploaded here if anyone else needs it. The stickers are good for advertising bitcoin and this file is for private use. 
+It is also possible to buy somewhere .. just google it. 
 
 Download : https://github.com/hodlemperor/Bitcoinsticker/blob/master/bitcoinsticker.pdf
 
