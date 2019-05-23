@@ -1,4 +1,4 @@
-# Bitcoinsticker
+# Bitcoin sticker
 
 I downloaded some logos of bitcoin related services, I try to vectorize most of all and add a cut profile to eack logo. In particoular I create the CutCountour which is necessary for cutting on the roland plotter.
 
